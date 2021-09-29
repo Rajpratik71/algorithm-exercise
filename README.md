@@ -77,3 +77,7 @@ Other contributors can be found in [Contributors to algorithm-exercise](https://
 
 ## To Do
 
+- [ ] add multiple languages support
+- [ ] add implementations of `Python`, `C++`, `Go` and `Java` code
+- [x] add time and space complexity analysis
+- [x] add proper Chinese fonts for PDF output
