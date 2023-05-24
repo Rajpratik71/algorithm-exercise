@@ -8,7 +8,7 @@ pyquery==1.4.0
 python-frontmatter==0.4.2
 python-slugify==1.2.4
 PyYAML==5.4
-requests==2.20
+requests==2.31.0
 selenium==3.10.0
 six==1.11.0
 Unidecode==1.0.22
