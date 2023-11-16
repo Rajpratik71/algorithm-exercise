@@ -9,7 +9,7 @@ python-frontmatter==0.4.2
 python-slugify==1.2.4
 PyYAML==5.4
 requests==2.20
-selenium==3.10.0
+selenium==4.15.1
 six==1.11.0
 Unidecode==1.0.22
 urllib3==1.26.5
